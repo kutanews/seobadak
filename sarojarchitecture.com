@@ -16,6 +16,7 @@
   <link href="https://lokaltoto8.org/assets/img/dfu/favicon.png" rel="shortcut icon" />
   <link href="https://www.sarojarchitecture.com/interior-furnishing/" rel="canonical" />
   <link href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/" rel="amphtml" />
+  <meta name="google-site-verification" content="TnQxyXulHITXitEiuZV_adHeH3dcz0-I1km5AgtkX3s" />
   <link as="image" href="https://www.upload.ee/image/18055168/lokaltotosukses.jpg" rel="preload" />
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch" />
   <link href="https://acs-m.lazada.co.id" rel="preconnect dns-prefetch" />
