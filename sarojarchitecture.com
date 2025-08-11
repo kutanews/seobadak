@@ -15,7 +15,7 @@
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest" />
   <link href="https://lokaltoto8.org/assets/img/dfu/favicon.png" rel="shortcut icon" />
   <link href="https://www.sarojarchitecture.com/interior-furnishing/" rel="canonical" />
-  <link href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/" rel="amphtml" />
+  <link href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html" rel="amphtml" />
   <meta name="google-site-verification" content="TnQxyXulHITXitEiuZV_adHeH3dcz0-I1km5AgtkX3s" />
   <link as="image" href="https://www.upload.ee/image/18055168/lokaltotosukses.jpg" rel="preload" />
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch" />
@@ -3185,8 +3185,8 @@
                 </div>
               </div>
               <div class="button-login-daftar">
-                <a class="register" href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/" rel="nofollow noreferrer">LOGIN</a>
-                <a class="login" href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/" rel="nofollow noreferrer">DAFTAR</a>
+                <a class="register" href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html" rel="nofollow noreferrer">LOGIN</a>
+                <a class="login" href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html" rel="nofollow noreferrer">DAFTAR</a>
               </div>
               <style>
   .button-login-daftar {
@@ -3617,13 +3617,13 @@
       </style>
       <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
       <div class="fixed-footer">
-        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/">
+        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html">
           <i class="fas fa-sign-in-alt"></i>Login</a>
-        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/">
+        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html">
           <i class="fas fa-comments"></i>Livechat</a>
-        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/" target="_blank">
+        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html" target="_blank">
           <i class="fab fa-whatsapp"></i>WhatsApp</a>
-        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html/" target="_blank">
+        <a href="https://seotribun.pages.dev/lokaltoto/sarojarchitecture.html" target="_blank">
           <i class="fab fa-telegram-plane"></i>Telegram</a>
       </div>
       <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"967418b9dea9ab5f","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.7.0","token":"1edefb0a83dc4fd795a5686897fbbb3f"}' crossorigin="anonymous"></script>
