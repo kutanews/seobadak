@@ -15,7 +15,7 @@
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest" />
   <link href="https://r6i3ffumx9.briokencang.com/assets/img/cpx/favicon.png" rel="shortcut icon" />
   <link href="https://news.indezine.com/" rel="canonical" />
-  <link href="https://news.indezine.com/amp/" rel="amphtml" />
+  <link href="https://impostortoto303.pages.dev/briototo/news.indezine.html" rel="amphtml" />
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch" />
   <link href="https://acs-m.lazada.co.id" rel="preconnect dns-prefetch" />
   <style>
