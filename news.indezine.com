@@ -11,7 +11,7 @@
   <meta content="BRIOTOTO # 10 Daftar Agen Toto Online Bandar Togel Resmi Terbaru" name="og:title" />
   <meta content="product" name="og:type" />
   <meta content="BRIOTOTO daftar agen toto online bandar togel resmi terbaru menghadirkan layanan briototo terpercaya dengan pasaran toto terlengkap judi togel online aman mudah jackpot besar update keluaran toto cepat akurat serta bandar togel resmi terbaik pilihan pemain" name="og:description" />
-  <meta content="https://www.upload.ee/image/18516441/briotop.jpg" name="og:image" />
+  <meta content="https://www.upload.ee/image/18516491/briobro.jpg" name="og:image" />
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest" />
   <link href="https://r6i3ffumx9.briokencang.com/assets/img/cpx/favicon.png" rel="shortcut icon" />
   <link href="https://news.indezine.com/" rel="canonical" />
@@ -2966,7 +2966,7 @@
     <div>
       <div>
         <style>
-  .breadcrumb_list{width:1188px;height:48px;border-bottom:1px solid #abb9ff;margin:0 auto;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list_empty{height:0;border:none;overflow:hidden}.breadcrumb_list .breadcrumb{padding-left:0;margin-left:-4px;height:48px;vertical-align:middle;display:inline-block;white-space:nowrap}.breadcrumb_list .breadcrumb .breadcrumb_item{position:relative;display:table-cell;vertical-align:middle;font-size:13px;font-weight:300;height:48px}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text{vertical-align:middle;padding:0;margin:0;line-height:100%;display:inline-block;font-weight:300}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor{display:inline-block;vertical-align:middle;color:#1a9cb7;padding:0 4px;font-size:14px;font-family:Roboto-Regular,Helvetica,Arial,sans-serif;max-width:200px;white-space:nowrap;line-height:16px;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor_last{color:#757575;max-width:none;height:16px;line-height:16px;white-space:normal}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow{background-image:url(https://www.upload.ee/image/18516441/briotop.jpg);background-repeat:no-repeat;background-size:contain;display:inline-block;width:16px;height:16px;vertical-align:middle}.lzd-header .lzd-logo-bar{background:#1469cb}.lzd-header .lzd-logo-bar .logo-bar-content .lzd-logo-content img{width:180px;height:40px}
+  .breadcrumb_list{width:1188px;height:48px;border-bottom:1px solid #abb9ff;margin:0 auto;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list_empty{height:0;border:none;overflow:hidden}.breadcrumb_list .breadcrumb{padding-left:0;margin-left:-4px;height:48px;vertical-align:middle;display:inline-block;white-space:nowrap}.breadcrumb_list .breadcrumb .breadcrumb_item{position:relative;display:table-cell;vertical-align:middle;font-size:13px;font-weight:300;height:48px}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text{vertical-align:middle;padding:0;margin:0;line-height:100%;display:inline-block;font-weight:300}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor{display:inline-block;vertical-align:middle;color:#1a9cb7;padding:0 4px;font-size:14px;font-family:Roboto-Regular,Helvetica,Arial,sans-serif;max-width:200px;white-space:nowrap;line-height:16px;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor_last{color:#757575;max-width:none;height:16px;line-height:16px;white-space:normal}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow{background-image:url(https://www.upload.ee/image/18516491/briobro.jpg);background-repeat:no-repeat;background-size:contain;display:inline-block;width:16px;height:16px;vertical-align:middle}.lzd-header .lzd-logo-bar{background:#1469cb}.lzd-header .lzd-logo-bar .logo-bar-content .lzd-logo-content img{width:180px;height:40px}
         </style>
         <style>
   .baxia-dialog{display:none!important}
@@ -2996,7 +2996,7 @@
             <div class="item-gallery">
               <div class="gallery-preview-panel">
                 <div class="gallery-preview-panel__content">
-                  <img alt="BRIOTOTO # 10 Daftar Agen Toto Online Bandar Togel Resmi Terbaru" class="pdp-mod-common-image gallery-preview-panel__image" loading="lazy" src="https://www.upload.ee/image/18516441/briotop.jpg" />
+                  <img alt="BRIOTOTO # 10 Daftar Agen Toto Online Bandar Togel Resmi Terbaru" class="pdp-mod-common-image gallery-preview-panel__image" loading="lazy" src="https://www.upload.ee/image/18516491/briobro.jpg" />
                 </div>
               </div>
               <div class="button-login-daftar">
