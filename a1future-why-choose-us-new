@@ -154,6 +154,28 @@
 }
 </script>
 
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "HAPPY838",
+  "url": "https://www.a1future.com/how-we-do-it-better/",
+  "logo": "https://res.cloudinary.com/dqerweulf/image/upload/v1758449135/wow-happy838_a77ovx.jpg",
+  "sameAs": [
+    "https://www.facebook.com/happ838",
+    "https://twitter.com/happ838",
+    "https://www.instagram.com/happ838"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62-812-2324-1131",
+    "contactType": "customer support",
+    "areaServed": "ID",
+    "availableLanguage": ["Indonesian", "English"]
+  }
+}
+</script>
+
   <script nonce="EwZ+XC43sUHzsn+dgzOnVw==">
   //<![CDATA[
           window.dataLayer = window.dataLayer || [];
